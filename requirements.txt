@@ -1,4 +1,0 @@
-trafilatura
-ftfy
-beautifulsoup4
-requests
